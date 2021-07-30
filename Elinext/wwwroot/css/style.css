@@ -1,0 +1,28 @@
+.comment-head {
+    float: left;
+}
+
+.btn-right {
+    float: right;
+}
+
+.bi {
+    display: inline-block;
+    vertical-align: -.125em;
+}
+
+div.post-spinner {
+    position: relative;
+    min-height: 100px;
+}
+
+.spinner-border.big {
+    width: 3rem;
+    height: 3rem;
+}
+
+.spinner {
+    position: absolute;
+    top: 25%;
+    left: 45%;
+}
